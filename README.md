@@ -13,7 +13,7 @@ Este projeto consiste em dois microserviços: **Estoque** e **Vendas**, que se c
 - **Spring Boot**
 - **Apache Kafka**
 - **Kafka**
-- **MySQL** (para banco de dados)
+- **PostgreSQL**
 
 ## Como Funciona
 
