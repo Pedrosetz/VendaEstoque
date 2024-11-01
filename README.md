@@ -1,4 +1,4 @@
-# Projeto de Comunicação entre Estoque e Vendas com Apache Kafka
+# Projeto de Comunicação entre Estoque e Venda com Apache Kafka
 
 Este projeto consiste em dois microserviços: **Estoque** e **Vendas**, que se comunicam de forma assíncrona utilizando **Apache Kafka**. O objetivo é permitir a venda de produtos com base no estoque disponível, sincronizando as informações entre os serviços de forma eficiente.
 
